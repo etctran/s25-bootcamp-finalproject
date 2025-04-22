@@ -25,3 +25,9 @@
 - Goals and progress tracking for motivation.
 - Browsable workout library categorized by muscle group or difficulty level.
 - Uniqueness: Explore features that set Repit apart from existing apps, such as personalized workout suggestions based on previous logs, adaptive difficulty tracking, AI-based feedback, or social/accountability features like sharing streaks with friends.
+
+
+
+
+https://github.com/user-attachments/assets/1a88d2ce-1973-45ec-9970-fe8a7e8ffb29
+
