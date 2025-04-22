@@ -9,7 +9,6 @@
 - Track **reps and weights** for every set in each exercise.
 - View all sessions in a grouped list by date.
 - Swipe to delete workouts or sessions.
-- Clean, dark-themed UI designed for focus and usability.
 
 ## Challenges Faced
 
